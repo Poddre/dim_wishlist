@@ -1,7 +1,7 @@
 title:Poddre's DIM Wishlist
 
 // PLUG ONE.1 (Adept) - PvP (god-pvp,controller)
-//notes: Poddre's List -PvP - Mod: Adept Targeting/Icarus MW: Stability tags:god-pvp,controller
+//notes: Poddre's List -PvP - Mod: Adept Targeting/Icarus MW: Stability |tags:god-pvp,controller
 dimwishlist:item=534775659&perks=1392496348,3868766766,1645158859,1754714824
 dimwishlist:item=534775659&perks=1392496348,3868766766,1645158859,2726471870
 dimwishlist:item=534775659&perks=1392496348,3868766766,1570042021,1754714824
@@ -28,14 +28,14 @@ dimwishlist:item=534775659&perks=1482024992,2969185026,2450788523,1754714824
 dimwishlist:item=534775659&perks=1482024992,2969185026,2450788523,2726471870
 
 
-// PLUG ONE.1 (Adept) - PvE (pve,controller)
-//notes: Poddre's List -PvE - MW: Stability tags:pve,controller
+// PLUG ONE.1 (Adept) - PvE
+//notes: Poddre's List -PvE - MW: Stability |tags:pve,controller
 dimwishlist:item=534775659&perks=1840239774,1687452232,1645158859,1427256713
 dimwishlist:item=534775659&perks=1840239774,1687452232,2779035018,1427256713
 
 
-// Servant Leader - PvP (controller,god-pvp)
-//notes: Poddre's List - PvP - MW: ??? tags:controller,god-pvp
+// Servant Leader - PvP
+//notes: Poddre's List - PvP - MW: ??? |tags:controller,god-pvp
 dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,3425386926
 dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,1015611457
 dimwishlist:item=1107446438&perks=3250034553,3142289711,247725512,3425386926
@@ -44,35 +44,36 @@ dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021,3425386926
 dimwishlist:item=1107446438&perks=3250034553,3142289711,1570042021,1015611457
 
 
-// Servant Leader - Endgame PvE (god-pve,controller)
-//notes: Poddre's List - PvE - MW: ??? tags:god-pve,controller
+// Servant Leader - Endgame PvE
+//notes: Poddre's List - PvE - MW: ??? |tags:god-pve,controller
 dimwishlist:item=1107446438&perks=
 
 
-// Eye of Sol - PvP (god-pvp,controller)
-//notes: Poddre's List - PvP - MW: ??? tags:god-pvp,controller
+// Eye of Sol - PvP
+//notes: Poddre's List - PvP - MW: ??? |tags:god-pvp,controller
 dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=3164743584&perks=1840239774,3142289711,2866798147,47981717
 
 
-// Wolftone Draw - PvP (god-pvp,controller)
-//notes: Poddre's List - PvP - Great Bow/Pistol finish combo. MW: Draw Time tags:god-pvp,controller
+// Wolftone Draw - PvP
+//notes: Poddre's List - PvP - Great Bow/Pistol finish combo. MW: Draw Time |tags:god-pvp,controller
 dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,438098033
 
 
-// Wolftone Draw - PvE (god-pve,controller)
-//notes: Poddre's List - PvE - MW: Draw time tags:god-pve,controller
+// Wolftone Draw - PvE
+//notes: Poddre's List - PvE - MW: Draw time |tags:god-pve,controller
 dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,4104185692
 dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,3523296417
 
 
 // Eye of Sol (Adept) - PvP (god-pvp,controller)
-//notes: Poddre's List - PvP - MW: ??? tags:god-pvp,controller
+//notes: Poddre's List - PvP - MW: ??? |tags:god-pvp,controller
 dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717
 
 
 // Dead Man's Tale - Endgame PvE (god-pve,controller)
+//notes: Poddre's List - PvE - Range + Stability are the goal. Vorpal is what I want. |tags:controller,god-pvp
 dimwishlist:item=3654674561&perks=3661387068,3177308360,1546637391,990298390
 dimwishlist:item=3654674561&perks=3661387068,1885400500,1546637391,990298390
 dimwishlist:item=3654674561&perks=3661387068,3142289711,1546637391,990298390
@@ -85,14 +86,14 @@ dimwishlist:item=3654674561&perks=1482024992,3142289711,1546637391,990298390
 
 
 // Dead Man's Tale - PvP (controller,god-pvp)
-//notes: Poddre's List - PvP - Range + Stability are the goal. Almost any of the main perk are good. Moving target is main according to Merc tags:controller,god-pvp
+//notes: Poddre's List - PvP - Range + Stability are the goal. Almost any of the main perk are good. Moving target is main according to Merc |tags:controller,god-pvp
 dimwishlist:item=3654674561&perks=3661387068,1885400500,588594999,3465198467
 dimwishlist:item=3654674561&perks=3661387068,1885400500,1168162263,3465198467
 dimwishlist:item=3654674561&perks=3661387068,1885400500,2450788523,3465198467
 
 
 // Dead Man's Tale - PvP (pvp,controller)
-//notes: Poddre's List - PvP - Not god roll but good tags:pvp,controller
+//notes: Poddre's List - PvP - Not god roll but good |tags:pvp,controller
 dimwishlist:item=3654674561&perks=4090651448,3230963543,4259401308
 dimwishlist:item=3654674561&perks=4090651448,3230963543,990298390
 dimwishlist:item=3654674561&perks=4090651448,679225683,4259401308
@@ -114,21 +115,21 @@ dimwishlist:item=-3654674561&perks=1467527085,1968497646,957782887
 
 
 // Shayura's Wrath - PvP 6s (pvp,controller)
-//notes: Poddre's List - PvP - Best for 6s tags:pvp,controller
+//notes: Poddre's List - PvP - Best for 6s |tags:pvp,controller
 dimwishlist:item=3682803680&perks=3250034553,3142289711,2946784966,1015611457
 dimwishlist:item=3682803680&perks=3250034553,3230963543,2946784966,1015611457
 dimwishlist:item=3682803680&perks=3250034553,1431678320,2946784966,1015611457
 
 
 // Shayura's Wrath - PvP 1v1 (pvp,controller)
-//notes: Poddre's List - PvP - Best for 1v1 tags:pvp,controller
+//notes: Poddre's List - PvP - Best for 1v1 |tags:pvp,controller
 dimwishlist:item=3682803680&perks=3250034553,3142289711,1359896290,1890422124
 dimwishlist:item=3682803680&perks=3250034553,3230963543,1359896290,1890422124
 dimwishlist:item=3682803680&perks=3250034553,1431678320,1359896290,1890422124
 
 
 // Shayura's Wrath - PvP 2v1 (pvp,controller)
-//notes: Poddre's List - PvP - Best for 2v1s tags:pvp,controller
+//notes: Poddre's List - PvP - Best for 2v1s |tags:pvp,controller
 dimwishlist:item=3682803680&perks=3250034553,3142289711,1359896290,1015611457
 dimwishlist:item=3682803680&perks=3250034553,3230963543,1359896290,1015611457
 dimwishlist:item=3682803680&perks=3250034553,1431678320,1359896290,1015611457
