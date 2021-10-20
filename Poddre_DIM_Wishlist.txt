@@ -35,6 +35,12 @@ dimwishlist:item=534775659&perks=1840239774,1687452232,2779035018
 dimwishlist:item=534775659&perks=1840239774,1687452232,1645158859
 dimwishlist:item=534775659&perks=1840239774,1687452232
 
+// Sojourner's Tale - PvP (pvp,controller)
+//notes: Poddre's List - PvP - Best for Melee Builds tags:pvp,controller
+dimwishlist:item=599895591&perks=3250034553,3142289711,2946784966,2450788523
+dimwishlist:item=599895591&perks=3250034553,791862061,2946784966,2450788523
+dimwishlist:item=599895591&perks=3250034553,679225683,2946784966,2450788523
+
 // Servant Leader - PvP
 //notes: Poddre's List - PvP - MW: TBD |tags:controller,god-pvp
 dimwishlist:item=1107446438&perks=3250034553,3142289711,1168162263,3425386926
@@ -62,6 +68,40 @@ dimwishlist:item=3654674561&perks=1482024992,1885400500,1546637391,990298390
 dimwishlist:item=3654674561&perks=1482024992,3142289711,1546637391,990298390
 dimwishlist:item=3654674561&perks=1482024992,3142289711
 
+// Chroma Rush - PvP (controller,god-pvp)
+//notes: Poddre's List - PvP - MW: Range. Source: Coolguy tags:controller,god-pvp
+dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,1015611457
+
+// Chroma Rush - PvE (god-pve,controller)
+//notes: Poddre's List - PvE - MW: Stability. Source: Coolguy tags:god-pve,controller
+dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,3425386926
+
+// Gridskipper - PvP (pvp,controller)
+//notes: Poddre's List - PvP - Mod: TBD MW: TBD tags:pvp,controller
+dimwishlist:item=1621558458&perks=839105230,1885400500,1570042021,2458213969
+dimwishlist:item=1621558458&perks=839105230,1885400500,588594999,2458213969
+dimwishlist:item=1621558458&perks=839105230,1885400500,2039302152,2458213969
+dimwishlist:item=1621558458&perks=3661387068,1885400500,1570042021,2458213969
+dimwishlist:item=1621558458&perks=3661387068,1885400500,588594999,2458213969
+dimwishlist:item=1621558458&perks=3661387068,1885400500,2039302152,2458213969
+dimwishlist:item=1621558458&perks=1467527085,1885400500,1570042021,2458213969
+dimwishlist:item=1621558458&perks=1467527085,1885400500,588594999,2458213969
+dimwishlist:item=1621558458&perks=1467527085,1885400500,2039302152,2458213969
+
+// Gridskipper - PvP 2 (pvp,controller)
+//notes: Poddre's List - PvP Alt - Mod: Targeting MW: Stability tags:pvp,controller
+dimwishlist:item=1621558458&perks=3250034553,1885400500,1570042021,2458213969
+
+// Vulpecula - PvP (pvp,controller)
+//notes: Poddre's List - PvP - MW: TBD tags:pvp,controller
+dimwishlist:item=1622998472&perks=1840239774,106909392,1168162263,438098033
+dimwishlist:item=1622998472&perks=1840239774,106909392,1168162263,124408337
+dimwishlist:item=1622998472&perks=1840239774,106909392,2450788523,438098033
+dimwishlist:item=1622998472&perks=1840239774,106909392,2450788523,124408337
+
+// Vulpecula - PvE (pve,controller)
+//notes: Poddre's List - PvE - Mod: TBD MW: TBD tags:pve,controller
+dimwishlist:item=1622998472&perks=3700496672,3038247973
 
 // Eye of Sol - PvP
 //notes: Poddre's List - PvP - MW: TBD |tags:god-pvp,controller
@@ -74,6 +114,12 @@ dimwishlist:item=3164743584&perks=1840239774,47981717
 dimwishlist:item=3164743584&perks=1840239774,588594999
 dimwishlist:item=3164743584&perks=1840239774,2866798147
 dimwishlist:item=3164743584&perks=1840239774,3142289711
+
+// Eye of Sol (Adept) - PvP
+//notes: Poddre's List - PvP - MW: TBD |tags:god-pvp,controller
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717
+
 
 // Wolftone Draw - PvP
 //notes: Poddre's List - PvP - Great Bow/Pistol finish combo. MW: Draw Time |tags:god-pvp,controller
@@ -89,17 +135,19 @@ dimwishlist:item=3472875143&perks=3429800428,201365942
 dimwishlist:item=3472875143&perks=3429800428,438098033
 dimwishlist:item=3472875143&perks=201365942,438098033
 
-
 // Wolftone Draw - PvE
 //notes: Poddre's List - PvE - MW: Draw time |tags:god-pve,controller
 dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,4104185692
 dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672,3523296417
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672
+dimwishlist:item=3472875143&perks=2801223209,3429800428,4104185692
+dimwishlist:item=3472875143&perks=2801223209,3700496672,4104185692
+dimwishlist:item=3472875143&perks=3429800428,3700496672,4104185692
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3700496672
+dimwishlist:item=3472875143&perks=2801223209,3429800428,3523296417
+dimwishlist:item=3472875143&perks=2801223209,3700496672,3523296417
+dimwishlist:item=3472875143&perks=3429800428,3700496672,3523296417
 
-
-// Eye of Sol (Adept) - PvP
-//notes: Poddre's List - PvP - MW: TBD |tags:god-pvp,controller
-dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
-dimwishlist:item=3637570176&perks=1840239774,3142289711,2866798147,47981717
 
 // Darkest Before - PvP God Roll (god-pvp,controller)
 //notes: Poddre's Wishlist - PvP God Roll. Counter Balance Mod. MW: Stability tags:god-pvp,controller
@@ -144,6 +192,22 @@ dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745,3511092054
 dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3425386926
 dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,4267945040
 dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3511092054
+
+
+// Iota Draconis - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - MW: Stability tags:god-pvp,controller
+dimwishlist:item=3044460004&perks=1467527085,1687452232,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1687452232,1645158859
+dimwishlist:item=3044460004&perks=1467527085,1687452232,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1687452232,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1687452232
+dimwishlist:item=3044460004&perks=1467527085,1645158859
+dimwishlist:item=3044460004&perks=1467527085,2213355989
+dimwishlist:item=3044460004&perks=1687452232,1645158859
+dimwishlist:item=3044460004&perks=1687452232,2213355989
+dimwishlist:item=3044460004&perks=1645158859,2213355989
+
 
 // Dead Man's Tale - Endgame PvE
 //notes: Poddre's List - PvE - Range + Stability are the goal. Vorpal is what I want. |tags:controller,god-pvp
