@@ -68,6 +68,17 @@ dimwishlist:item=3654674561&perks=1482024992,1885400500,1546637391,990298390
 dimwishlist:item=3654674561&perks=1482024992,3142289711,1546637391,990298390
 dimwishlist:item=3654674561&perks=1482024992,3142289711
 
+// Servant Leader - PvP MBD (god-pvp,controller)
+//notes: Poddre's List - PvP - God roll according to Merc. Want max stability. Don't need more range. MW: Stability? tags:god-pvp,controller
+dimwishlist:item=1107446438&perks=1392496348,3177308360,247725512,1015611457
+
+// Servant Leader - PvP MBD (pvp,controller)
+//notes: Poddre's List - PvP - Good Roll according to Merc. MW: Stability? tags:pvp,controller
+dimwishlist:item=1107446438&perks=1392496348,3230963543,1168162263,1015611457
+dimwishlist:item=1107446438&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=1107446438&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=1107446438&perks=1392496348,106909392,2946784966,1015611457
+
 // Chroma Rush - PvP (controller,god-pvp)
 //notes: Poddre's List - PvP - MW: Range. Source: Coolguy tags:controller,god-pvp
 dimwishlist:item=1119734784&perks=839105230,3142289711,1570042021,1015611457
@@ -270,3 +281,55 @@ dimwishlist:item=3682803680&perks=3250034553,1431678320,1359896290,1890422124
 dimwishlist:item=3682803680&perks=3250034553,3142289711,1359896290,1015611457
 dimwishlist:item=3682803680&perks=3250034553,3230963543,1359896290,1015611457
 dimwishlist:item=3682803680&perks=3250034553,1431678320,1359896290,1015611457
+
+// Punching Out - PvP (controller,god-pvp)
+//notes: Poddre's List - PvP - MW: TBD tags:controller,god-pvp
+dimwishlist:item=378498222&perks=1482024992,1885400500,4071163871,1015611457
+dimwishlist:item=378498222&perks=1482024992,1885400500,588594999,1015611457
+dimwishlist:item=378498222&perks=1482024992,1885400500,2846385770,1015611457
+
+// BrayTech Werewolf - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - MW: Stability tags:god-pvp,controller
+dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,1546637391
+
+// Peacebond - PvP Range (pvp,controller)
+//notes: Poddre's Wishlist - PvP God Roll according to CoolGuy. Full on max range. MW: Range tags:pvp,controller
+dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,591790007
+
+// Peacebond - PvP Stability (controller,pvp)
+//notes: Poddre's Wishlist - PvP "God Roll" with focus on stability. Everything doesn't need to be stability otherwise it will go too far. 90 Stability is goal. MW: Range tags:controller,pvp
+dimwishlist:item=829330711&perks=1482024992,3230963543,2846385770,438098033
+dimwishlist:item=829330711&perks=1482024992,3177308360,2846385770,438098033
+
+// Peacebond - PvP Trash (pvp,controller)
+//notes: Poddre's Wishlist - PvP Trash perks. tags:pvp,controller
+dimwishlist:item=-829330711&perks=839105230
+dimwishlist:item=-829330711&perks=3661387068
+
+// Judgment - PvP 6s (pvp,controller)
+//notes: Poddre's List - PvP -  Steady Hand then Truesight are Alts. MW: TBD tags:pvp,controller
+dimwishlist:item=1476654960&perks=1926090094,106909392,2946784966,2458213969
+dimwishlist:item=1476654960&perks=1926090094,3230963543,2946784966,2458213969
+dimwishlist:item=1476654960&perks=1926090095,106909392,2946784966,2458213969
+dimwishlist:item=1476654960&perks=1926090095,3230963543,2946784966,2458213969
+dimwishlist:item=1476654960&perks=1926090092,106909392,2946784966,2458213969
+dimwishlist:item=1476654960&perks=1926090092,3230963543,2946784966,2458213969
+
+// Judgment - PvP 1s (pvp,controller)
+//notes: Poddre's List - PvP -  Steady Hand then Truesight are Alts. MW: TBD tags:pvp,controller
+dimwishlist:item=1476654960&perks=1926090095,3230963543,3161816588,47981717
+dimwishlist:item=1476654960&perks=1926090095,3230963543,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090095,106909392,3161816588,47981717
+dimwishlist:item=1476654960&perks=1926090095,106909392,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090092,3230963543,3161816588,47981717
+dimwishlist:item=1476654960&perks=1926090092,3230963543,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090092,106909392,3161816588,47981717
+dimwishlist:item=1476654960&perks=1926090092,106909392,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090094,3230963543,3161816588,47981717
+dimwishlist:item=1476654960&perks=1926090094,3230963543,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090094,106909392,3161816588,47981717
+dimwishlist:item=1476654960&perks=1926090094,106909392,588594999,47981717
+
+// Horror Story - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - Minimal info. Not good but this is a roll to throw in the vault. tags:god-pvp,controller
+dimwishlist:item=3829285960&perks=2450788523,588594999
