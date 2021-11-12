@@ -301,10 +301,6 @@ dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,591790007
 dimwishlist:item=829330711&perks=1482024992,3230963543,2846385770,438098033
 dimwishlist:item=829330711&perks=1482024992,3177308360,2846385770,438098033
 
-// Peacebond - PvP Trash (pvp,controller)
-//notes: Poddre's Wishlist - PvP Trash perks. tags:pvp,controller
-dimwishlist:item=-829330711&perks=839105230
-dimwishlist:item=-829330711&perks=3661387068
 
 // Judgment - PvP 6s (pvp,controller)
 //notes: Poddre's List - PvP -  Steady Hand then Truesight are Alts. MW: TBD tags:pvp,controller
