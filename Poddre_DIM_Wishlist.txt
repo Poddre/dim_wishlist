@@ -325,3 +325,49 @@ dimwishlist:item=1476654960&perks=1926090094,106909392,588594999,47981717
 // Horror Story - PvP (god-pvp,controller)
 //notes: Poddre's List - PvP - Minimal info. Not good but this is a roll to throw in the vault. tags:god-pvp,controller
 dimwishlist:item=3829285960&perks=2450788523,588594999
+
+// -------- Added 12.29.2021 --------
+
+// Retraced Path - PvP Range (controller,pvp)
+//notes: Poddre's List - PvP - MW: Range. Source: Massive Podcast tags:controller,pvp
+dimwishlist:item=548958835&perks=3250034553,2969185026,1428297954,438098033
+dimwishlist:item=548958835&perks=3250034553,2969185026,2450788523,438098033
+
+
+// Retraced Path - PvP (pvp,controller)
+//notes: Poddre's List - PvP - MW: Range. Source: Massive Podcast tags:pvp,controller
+dimwishlist:item=548958835&perks=1482024992,732557052,1428297954,438098033
+dimwishlist:item=548958835&perks=1482024992,732557052,2450788523,438098033
+dimwishlist:item=548958835&perks=1392496348,732557052,1428297954,438098033
+dimwishlist:item=548958835&perks=1392496348,732557052,2450788523,438098033
+
+
+// Retraced Path - PvE ()
+//notes: Poddre's List - PvE - MW: TBD. Source: Massive Podcast
+dimwishlist:item=548958835&perks=1820235745,1683379515
+
+
+// BxR-55 Battler - PvP God Roll (god-pvp)
+//notes: Poddre's List - PvP God Roll - MW: Range or Stability. Source: Merc tags:god-pvp
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
+
+
+// BxR-55 Battler - PvP Alts (pvp)
+//notes: Poddre's List - PvP - MW: Range or stability. Source: Massive Podcast tags:pvp
+dimwishlist:item=2708806099&perks=3661387068,3230963543,2450788523,699525795
+dimwishlist:item=2708806099&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=2708806099&perks=1392496348,3230963543,2450788523,699525795
+
+
+// BxR-55 Battler - PvE (pve)
+//notes: Poddre's List - PvE - MW: TBD. Source: Massive Podcast tags:pve
+dimwishlist:item=2708806099&perks=3230963543,3523296417,454085387
+dimwishlist:item=2708806099&perks=3230963543,3523296417,11612903
+dimwishlist:item=2708806099&perks=1431678320,3523296417,454085387
+dimwishlist:item=2708806099&perks=1431678320,3523296417,11612903
+
+
+// The Time-Worn Spire - PvP (god-pvp,controller)
+//notes: Poddre's List - PvP - Mod: Counter Balance. Can out range Messenger with Rifle and Rico Rounds.  tags:god-pvp,controller
+dimwishlist:item=3593598010&perks=679077873,1885400500,588594999,11551321
+dimwishlist:item=3593598010&perks=679077873,1885400500,2039302152,11551321
