@@ -440,8 +440,9 @@ dimwishlist:item=4248569242&perks=3250034553,3142289711,1866048759,588594999
 
 
 // Krait - PvE (pve,controller)
-//notes: Poddre's List - PvE - Mod: TBD MW: Stability  - Headstone is good for ad clear. Vorpal is good for harder content. |tags:god-pve,controller
+
 //Overflow & Headstone
+//notes: Poddre's List - PvE - Mod: TBD MW: Stability  - Headstone is good for ad clear. Vorpal is good for harder content.
 dimwishlist:item=2852052802&perks=839105230,2420895100,3643424744,124408337
 dimwishlist:item=2852052802&perks=4090651448,2420895100,3643424744,124408337
 dimwishlist:item=2852052802&perks=1840239774,2420895100,3643424744,124408337
@@ -458,7 +459,9 @@ dimwishlist:item=2852052802&perks=4090651448,1885400500,3643424744,124408337
 dimwishlist:item=2852052802&perks=1840239774,1885400500,3643424744,124408337
 dimwishlist:item=2852052802&perks=1392496348,1885400500,3643424744,124408337
 dimwishlist:item=2852052802&perks=1482024992,1885400500,3643424744,124408337
+
 //Subsistence & Headstone
+//notes: Poddre's List - PvE - Mod: TBD MW: Stability  - Headstone is good for ad clear. Vorpal is good for harder content.
 dimwishlist:item=2852052802&perks=839105230,2420895100,1820235745,124408337
 dimwishlist:item=2852052802&perks=4090651448,2420895100,1820235745,124408337
 dimwishlist:item=2852052802&perks=1840239774,2420895100,1820235745,124408337
@@ -476,7 +479,9 @@ dimwishlist:item=2852052802&perks=1840239774,1885400500,1820235745,124408337
 dimwishlist:item=2852052802&perks=1392496348,1885400500,1820235745,124408337
 dimwishlist:item=2852052802&perks=1482024992,1885400500,1820235745,124408337
 dimwishlist:item=2852052802&perks=3250034553,1885400500,1820235745,124408337#notes:God Roll PvE
+
 //Overflow & Vorpal
+//notes: Poddre's List - PvE - Mod: TBD MW: Stability  - Headstone is good for ad clear. Vorpal is good for harder content.
 dimwishlist:item=2852052802&perks=839105230,2420895100,3643424744,1546637391
 dimwishlist:item=2852052802&perks=4090651448,2420895100,3643424744,1546637391
 dimwishlist:item=2852052802&perks=1840239774,2420895100,3643424744,1546637391
@@ -493,7 +498,9 @@ dimwishlist:item=2852052802&perks=4090651448,1885400500,3643424744,1546637391
 dimwishlist:item=2852052802&perks=1840239774,1885400500,3643424744,1546637391
 dimwishlist:item=2852052802&perks=1392496348,1885400500,3643424744,1546637391
 dimwishlist:item=2852052802&perks=1482024992,1885400500,3643424744,1546637391
+
 //Subsistence & Vorpal
+//notes: Poddre's List - PvE - Mod: TBD MW: Stability  - Headstone is good for ad clear. Vorpal is good for harder content.
 dimwishlist:item=2852052802&perks=839105230,2420895100,1820235745,1546637391
 dimwishlist:item=2852052802&perks=4090651448,2420895100,1820235745,1546637391
 dimwishlist:item=2852052802&perks=1840239774,2420895100,1820235745,1546637391
